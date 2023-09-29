@@ -3,8 +3,15 @@ date: "<center>Last Edit: `r Sys.Date()`<center>"
 output: html_document
 ---
 ## Physical Chemistry Guidebook {.tabset .tabset-fade}
-### Ideal Gasses
-### 1^st^ Law of Thermodynamics
+### Lecture Notes {.tabset .tabset-fade}
+#### Propagation of Error
+#### The Basics
+#### Ideal Gasses
+#### 1^st^ Law of Thermodynamics
+#### 2^nd^ Law of Thermodynamics
+#### Mixtures & Solutions
+#### Chemical Kinetics
+
 ### Types of Gas Expansion {.tabset .tabset-fade}
 #### Irreversible Expansion
 #### Reversible Expansion
