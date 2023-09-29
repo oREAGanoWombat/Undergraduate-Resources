@@ -9,5 +9,5 @@ navbar:
       href: about.html
     - text: "Subject"
       menu: 
-        - text: "Physical Chemistry"
-          href: p-chem_home.html
+      - text: "Physical Chemistry"
+        href: p-chem_home.html
