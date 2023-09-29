@@ -1,0 +1,13 @@
+---
+date: "<center>Last Edit: `r Sys.Date()`<center>"
+output: html_document
+---
+## Physical Chemistry Guidebook {.tabset .tabset-fade}
+### Ideal Gasses
+### 1^st^ Law of Thermodynamics
+### Types of Gas Expansion {.tabset .tabset-fade}
+#### Irreversible Expansion
+#### Reversible Expansion
+#### Isothermal Expansion
+#### Isochoric Expansion
+#### Adiabatic Expansion
